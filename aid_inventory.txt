@@ -1,0 +1,52 @@
+[
+    {
+        "item": "Flour",
+        "quantity": 1500,
+        "donor": "World Food Programme"
+    },
+    {
+        "item": "Rice",
+        "quantity": 2100,
+        "donor": "UNRWA"
+    },
+    {
+        "item": "Blankets",
+        "quantity": 500,
+        "donor": "Red Crescent"
+    },
+    {
+        "item": "Insulin",
+        "quantity": 350,
+        "donor": "WHO"
+    },
+    {
+        "item": "Baby Formula",
+        "quantity": 800,
+        "donor": "UNICEF"
+    },
+    {
+        "item": "Solar Panels",
+        "quantity": 120,
+        "donor": "Qatar Charity"
+    },
+    {
+        "item": "Painkillers",
+        "quantity": 1000,
+        "donor": "WHO"
+    },
+    {
+        "item": "Drinking Water",
+        "quantity": 3000,
+        "donor": "UNICEF"
+    },
+    {
+        "item": "Winter Jackets",
+        "quantity": 400,
+        "donor": "Red Crescent"
+    },
+    {
+        "item": "Soap",
+        "quantity": 1200,
+        "donor": "Qatar Charity"
+    }
+]
